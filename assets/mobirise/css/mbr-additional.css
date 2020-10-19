@@ -3303,3 +3303,23 @@ section.lazy-placeholder:after {
 .cid-s8MYsEmbSz .dropdown-item:hover {
   color: #00a8ff !important;
 }
+.cid-sdSa6OxAIG {
+  background: #ffffff;
+}
+.cid-sdSa6OxAIG .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-sdSa6OxAIG figcaption {
+  position: relative;
+}
+.cid-sdSa6OxAIG figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sdSa6OxAIG .image-block {
+    width: 100% !important;
+  }
+}

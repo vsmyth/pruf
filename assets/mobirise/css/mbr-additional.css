@@ -3305,10 +3305,11 @@ section.lazy-placeholder:after {
 }
 .cid-sdSa6OxAIG {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-sdSa6OxAIG .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-sdSa6OxAIG figcaption {
   position: relative;

@@ -3246,8 +3246,8 @@
     },
     "imagehost.html": {
       "settings": {
-        "meta_descr": "null",
-        "title": "null",
+        "meta_descr": "You shouldn't be here!",
+        "title": "Image Host",
         "order": 1
       },
       "components": [
